@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cointerior/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Cointerior/Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
+    "express": "^4.18.2"
+  }
+}
